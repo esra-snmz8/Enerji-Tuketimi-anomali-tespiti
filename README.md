@@ -1,1 +1,1 @@
-# Enerji-Tuketimi-anomali-tespiti
+
